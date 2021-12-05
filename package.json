@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-devloper-react-sample-001",
+  "version": "1.0.0",
+  "description": "this project only for setup the react workspace \r ===================================================\r 1) create a project in github\r 2) clone the project repo to  code edditor\r 3)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhiramdas99/fullstack-devloper-react-sample-001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhiramdas99/fullstack-devloper-react-sample-001/issues"
+  },
+  "homepage": "https://github.com/abhiramdas99/fullstack-devloper-react-sample-001#readme",
+  "dependencies": {
+    "next": "^12.0.7",
+    "react-dom": "^17.0.2"
+  }
+}
