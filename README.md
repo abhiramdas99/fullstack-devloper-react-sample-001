@@ -54,4 +54,8 @@ this project only for setup the react workspace
 	
 10) npm run dev  // this command run for display the page in browser
 
+11) add a .gitignore file and add following script to ignore some file and folder to track by git 
+/node_modules/
+/.next/
+/next.config.js/
  ============= end ==============
